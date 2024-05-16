@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "302061455079",
+    "project_id": "wias-app",
+    "storage_bucket": "wias-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302061455079:android:68066dba66cf36a154c442",
+        "android_client_info": {
+          "package_name": "com.appspot.wias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302061455079-s4l02g5houa9onjguobv8kstbcpcigc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appspot.wias",
+            "certificate_hash": "3c1611b170359132e1d6c909f7c0bde1e68ad54d"
+          }
+        },
+        {
+          "client_id": "302061455079-cmo9k8nk1k3en3spa5vnmf6120ira3qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH4cGnPpGneCeNo0Y3iwEkeecGs9Kd-cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302061455079-cmo9k8nk1k3en3spa5vnmf6120ira3qp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302061455079-g5v71e2dfp4us66otr7bfdfl39lvhmvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wias"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302061455079:android:467737b839af0b4a54c442",
+        "android_client_info": {
+          "package_name": "com.example.wias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302061455079-cmo9k8nk1k3en3spa5vnmf6120ira3qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH4cGnPpGneCeNo0Y3iwEkeecGs9Kd-cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302061455079-cmo9k8nk1k3en3spa5vnmf6120ira3qp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302061455079-g5v71e2dfp4us66otr7bfdfl39lvhmvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wias"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
